@@ -6,3 +6,4 @@ App 功用說明 ：養樂多計數器，每次要改分數都要翻Line，所�
 
 Wireframe 圖：
 ![image](https://github.com/BigPong/FuckMyLife/blob/master/yakult1.png)
+![image](https://github.com/BigPong/FuckMyLife/blob/master/yakult2.png)
